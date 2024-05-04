@@ -22,3 +22,6 @@ Replace the pythonapp.yml code with the following scaffolding code.
 
 4. Verify Remote Tests pass
 Push the changes to GitHub and verify that both lint and test steps pass in your project.
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/dnvntt/azure-devops/blob/main/github%20action%203.PNG)?raw=true)
+
