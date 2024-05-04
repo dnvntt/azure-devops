@@ -22,4 +22,4 @@ Replace the pythonapp.yml code with the following scaffolding code.
 
 4. Verify Remote Tests pass
 Push the changes to GitHub and verify that both lint and test steps pass in your project.
-![GitHub Action result](github%20action%203.PNG?raw=true "Optional Title")
+![GitHub Action result](github%20action%203.PNG?raw=true "GitHub Action result")
